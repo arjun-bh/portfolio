@@ -1,0 +1,43 @@
+.skills-page {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 50px;
+    width: calc(100% - 150px);
+    height: 100%;
+    overflow: auto;
+    margin-top: -40px;
+
+    .text-zone {
+        width: 35%; // Adjust to your liking
+        z-index: 2;
+
+        a {
+            color: #ffd700; // Link color
+            text-decoration: underline;
+
+            &:hover {
+                color: #fff; // Hover color
+                text-decoration: none;
+            }
+        }
+    }
+
+    .tagcloud-container {
+        width: 60%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 1;
+        margin-left: auto;
+
+        .tagcloud {
+            font-family: sans-serif;
+            font-weight: 500;
+            color: #e0ab18;
+            font-size: 24px;
+        }
+    }
+}
