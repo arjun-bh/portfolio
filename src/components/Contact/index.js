@@ -50,7 +50,7 @@ const Contact =() => {
                         />
                     </h1>
                     <p>
-                    Thank you for visiting. If you have questions, ideas for collaboration, or just want to say hi, 
+                    Thanks for stopping by. If you have questions, ideas for collaboration, or just want to say hi, 
                     please reach out via email or the form below. I look forward to connecting with you!
                     </p>
                     <div className='contact-form'>
