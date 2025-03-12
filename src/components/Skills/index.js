@@ -59,7 +59,7 @@ const Skills = () => {
             />
           </h1>
           <p>
-            In the VOID Tech club, 'm currently developing Open Course, a full-stack app built with Next.js, React, and Supabase to help University of Michigan students connect, share resources, and organize study groups. This project has enhanced my skills in modern web development, real-time databases, and secure user authentication.
+            In the VOID Tech club, I'm currently developing Open Course, a full-stack app built with Next.js, React, and Supabase to help University of Michigan students connect, share resources, and organize study groups. This project has enhanced my skills in modern web development, real-time databases, and secure user authentication.
           </p>
           <p>
             On the Michigan Robotic Submarine team, I create navigation and perception software for an autonomous underwater vehicle using Python, ROS, and PID algorithms. Collaborating closely with an interdisciplinary team has strengthened my ability to integrate complex software with hardware systems.
