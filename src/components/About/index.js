@@ -28,8 +28,10 @@ const About = () => {
                     />
                 </h1>
                 <p>I'm a sophomore at the University of Michigan studying Computer Science. I'm passionate about how 
-                    software can solve real problems—whether by building sleek web apps or optimizing back-end systems. 
-                    Every project pushes me to refine my skills and explore new ideas.</p>
+                    software can solve real problems——whether through intelligent systems like AI and machine learning, 
+                    building seamless user experiences, or optimizing performance under the hood. I love exploring different 
+                    areas of software development and applying technology creatively across domains. 
+                    Every project is a chance to sharpen my skills, explore new ideas, and build something meaningful.</p>
                 <p>
                 I love exploring new tech and tackling complex challenges—even if it takes multiple efforts to get it right. 
                 My passion for learning drives me to overcome setbacks, and I truly value collaboration as a path to 

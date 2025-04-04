@@ -71,7 +71,7 @@ const Skills = () => {
             For more about my professional experiences, check out my{' '}
             <a href="https://linkedin.com/in/arjun-bharadwaj-258418289" target="_blank" rel="noopener noreferrer">LinkedIn</a> 
             {' '}or view my{' '} 
-            <a href="/Arjun_Bharadwaj_Resume.pdf" target="_blank" rel="noopener noreferrer">resume</a>.
+            <a href="/Arjun_Bharadwaj_Resume_Final.pdf" target="_blank" rel="noopener noreferrer">resume</a>.
           </p>
         </div>
         <div className="tagcloud-container">
